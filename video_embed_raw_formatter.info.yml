@@ -1,0 +1,7 @@
+name: Video Embed Raw Formatter
+type: module
+description: Video Embed Raw Formatter return absolute URLs of videos, useful in Rest.
+core: 8.x
+package: Formatters
+dependencies:
+  - video_embed_field
