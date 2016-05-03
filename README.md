@@ -1,2 +1,2 @@
 # video_embed_raw_formatter
-Raw Formatter for Video Embed Module, useful for Rest
+Drupal 8 Raw Formatter for Video Embed Field (https://www.drupal.org/project/video_embed_field) , useful for Rest
